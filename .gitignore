@@ -1,3 +1,5 @@
 recsyslab1
 /__pycache__
-socialmediadata-beeradvocate
+/socialmediadata-beeradvocate
+/MINDsmall_train
+.DS_Store
