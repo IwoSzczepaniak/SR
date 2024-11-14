@@ -3,3 +3,5 @@ recsyslab1
 /socialmediadata-beeradvocate
 /MINDsmall_train
 .DS_Store
+/ml-latest-small
+*.csv
